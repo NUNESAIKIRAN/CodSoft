@@ -9,7 +9,7 @@ Movie Success Prediction: Built a model to predict the success of movies based o
 
 Credit Card Fraud Detection: Developed a model to detect fraudulent credit card transactions using anomaly detection techniques and supervised learning methods. This project focused on handling imbalanced data, feature selection, and optimizing model performance.
 
-Sales Prediction: Created a predictive model to forecast sales for a retail store. The project involved time series analysis, trend identification, and model development using ARIMA and machine learning algorithms.
+Sales Prediction: Created a predictive model to forecast sales for a retail store. The project involved time series analysis, trend identification, and model development using streamlit and machine learning algorithms.
 
 
 
